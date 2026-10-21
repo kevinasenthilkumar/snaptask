@@ -31,4 +31,4 @@ Platform: Android
 Framework: to be decided (Flutter or native Kotlin)
 Design: Figma
 Status
-In development.# snaptask
+In development.
